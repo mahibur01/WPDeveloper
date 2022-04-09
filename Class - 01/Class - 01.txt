@@ -3,8 +3,15 @@ Date : 05 / 04 / 2022
 Topic: PHP Basics 
 Assignment: POC App Using PHP and MySQL Database
 
-My Submission: A dynamic Website for Blood Donation Org
+My Submission: A dynamic Website for Blood Donation organization
 
 Project Name: Hello Rokto
 Features: Website and Admin Panel
 Functionality: CRUD Operation
+
+Procedure: 
+
+- Keep project file inside XAMPP htdocs folder
+- Make database named hello_rokto 
+- Upload sql file from Database folder
+- Run this project
