@@ -1,0 +1,10 @@
+Date : 05 / 04 / 2022
+
+Topic: PHP Basics 
+Assignment: POC App Using PHP and MySQL Database
+
+My Submission: A dynamic Website for Blood Donation Org
+
+Project Name: Hello Rokto
+Features: Website and Admin Panel
+Functionality: CRUD Operation
